@@ -7,7 +7,7 @@ I'm a Software Engineer living in Indianapolis and I've been writing code for ov
 
  ### Contact me
  [![Gmail Badge](https://img.shields.io/badge/-ChristopherRobinReynolds@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ChristopherRobinReynolds@gmail.com)](mailto:ChristopherRobinReynolds@gmail.com)
- [![Twitter](https://img.shields.io/badge/-M4THBL45T3R-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/M4THBL45T3R) [![Linkedin](https://img.shields.io/badge/-Linkedin-0072b1?style=flat-square&logo=Linkedin&logoColor=white)](https://twitter.com/M4THBL45T3R) 
+ [![Twitter](https://img.shields.io/badge/-M4THBL45T3R-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/M4THBL45T3R) [![Linkedin](https://img.shields.io/badge/-Linkedin-0072b1?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/christopherrr/) 
 
  
 # 
